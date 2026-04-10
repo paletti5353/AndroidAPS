@@ -17,6 +17,7 @@ on:
           - aapsclient2Debug
           - pumpcontrolRelease
           - pumpcontrolDebug
+          - dev
 
 jobs:
   build:
